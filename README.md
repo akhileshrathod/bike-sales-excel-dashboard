@@ -1,1 +1,1 @@
-# bike-sales-excel-dashboard
+The Bike Sales Excel Dashboard project is a data visualization project that showcases the sales performance of a bike company. The data for this project is stored in an Excel workbook, and the dashboard is built using Microsoft Excel. The goal of this project is to provide an interactive and visually appealing dashboard that allows the user to quickly and easily analyze the sales performance.
